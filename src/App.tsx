@@ -113,7 +113,7 @@ function App() {
             <div className="p-2 bg-blue-100 rounded-lg">
               <Plane className="w-6 h-6 text-blue-600" />
             </div>
-            <h1 className="text-xl font-bold text-gray-900">Digital TLP</h1>
+            <h1 className="text-xl font-bold text-gray-900">Empire Aviation</h1>
           </div>
           <button
             onClick={() => setSidebarOpen(!sidebarOpen)}
@@ -138,7 +138,7 @@ function App() {
                 <Plane className="w-8 h-8 text-blue-600" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">Digital TLP</h1>
+                <h1 className="text-xl font-bold text-gray-900">Empire Aviation</h1>
                 <p className="text-sm text-gray-500">Flight Logbook System</p>
               </div>
             </div>
@@ -172,7 +172,7 @@ function App() {
             {/* Footer */}
             <div className="p-4 border-t border-gray-200">
               <div className="text-center text-sm text-gray-500">
-                <p>Digital TLP System</p>
+                <p>Empire Aviation</p>
                 <p className="text-xs mt-1">Version 1.0</p>
               </div>
             </div>
